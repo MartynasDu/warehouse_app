@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+flask_app_env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Data files
+data/*.csv
+
+# Secrets
+.env
